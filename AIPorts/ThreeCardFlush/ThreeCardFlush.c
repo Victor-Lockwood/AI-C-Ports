@@ -1,10 +1,8 @@
-﻿// ThreeCardFlush.cpp : Defines the entry point for the application.
-//
+﻿#include <stdio.h>
 
-#include <stdio.h>
-
-int main()
+int main(void)
 {
-	printf("Setup");
+	printf("This is a test phrase\n");
+
 	return 0;
 }
